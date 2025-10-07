@@ -89,9 +89,10 @@ These KPIs align with AYOS’s business model — tracking both user adoption an
 
 ---
 
-## 📁 Contact
+👤 Connect with me on LinkedIn: [**Rahardian Gusta Patria**](https://www.linkedin.com/in/rahardian-g-patria-mba-762208b3/)
+💡 I am #OpenToWork — always open to collaborations and opportunities in Data Analysis, BI, and Data Visualization. Feel free to connect and reach out!
 
-📝 Notes for Reviewers
-- The repository includes sanitized demo data and a single-command runnable prototype.
-- Add screenshots in /ui/ and a short GIF demo for better presentation.
-- Include the final documentation PDF in /docs/ for academic submission.
+## 📬 Contact
+**Rahardian G. Patria**  
+📧 rahardiangusta@gmail.com  
+📍 Jakarta, Indonesia  
